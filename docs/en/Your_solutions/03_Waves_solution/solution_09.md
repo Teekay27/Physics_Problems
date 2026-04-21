@@ -1,6 +1,6 @@
 ## 9. Damped Oscillator
 
-### 📘 Problem
+### Problem
 
 For the damped harmonic oscillator:
 
@@ -81,7 +81,6 @@ $$
 
 
 
-```html
 <!DOCTYPE html>
 <html>
 <head>
