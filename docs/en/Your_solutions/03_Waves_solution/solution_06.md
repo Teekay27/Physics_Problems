@@ -10,11 +10,12 @@ $$
 
 where $x$ and $y$ are in meters and $t$ is in seconds.
 
-Determine the wave’s:
-- Amplitude $A$  
-- Wavelength $\lambda$  
-- Frequency $f$  
-- Wave speed $v$  
+Determine:
+
+a) Amplitude $A$  
+b) Wavelength $\lambda$  
+c) Frequency $f$  
+d) Wave speed $v$  
 
 ---
 
@@ -30,15 +31,23 @@ $$
 
 ### Step 1: Identify parameters
 
-From the equation:
+From the given equation:
 
-- $A = 0.05$  
-- $k = 2\pi$  
-- $\omega = 50\pi$  
+$$
+A = 0.05, \quad k = 2\pi, \quad \omega = 50\pi
+$$
 
 ---
 
-### Step 2: Find Wavelength
+### a) Amplitude
+
+$$
+A = 0.05 \text{ m}
+$$
+
+---
+
+### b) Wavelength
 
 $$
 \lambda = \frac{2\pi}{k}
@@ -50,7 +59,7 @@ $$
 
 ---
 
-### Step 3: Find Frequency
+### c) Frequency
 
 $$
 f = \frac{\omega}{2\pi}
@@ -62,7 +71,7 @@ $$
 
 ---
 
-### Step 4: Find Wave Speed
+### d) Wave Speed
 
 $$
 v = f \lambda
@@ -76,23 +85,8 @@ $$
 
 ### Final Answers
 
-- Amplitude:  
-  $$
-  A = 0.05 \text{ m}
-  $$
-
-- Wavelength:  
-  $$
-  \lambda = 1 \text{ m}
-  $$
-
-- Frequency:  
-  $$
-  f = 25 \text{ Hz}
-  $$
-
-- Wave speed:  
-  $$
-  v = 25 \text{ m/s}
-  $$
+- a) $A = 0.05 \text{ m}$  
+- b) $\lambda = 1 \text{ m}$  
+- c) $f = 25 \text{ Hz}$  
+- d) $v = 25 \text{ m/s}$  
 
