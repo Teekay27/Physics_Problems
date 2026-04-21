@@ -1,46 +1,63 @@
 ## 2. String Harmonics
 
+### 📘 Problem
+
 A guitar string is **64 cm long** and has a fundamental frequency (one antinode) of **330 Hz**.  
 
 Find the **speed of the wave** on the string.
 
 ---
 
-### Solution
+### 🧠 Solution
 
 For the fundamental mode of a string:
 
-L = λ / 2  
+$$
+L = \frac{\lambda}{2}
+$$
 
 So:
 
-λ = 2L  
+$$
+\lambda = 2L
+$$
 
 Convert length to meters:
 
-L = 64 cm = 0.64 m  
+$$
+L = 64 \text{ cm} = 0.64 \text{ m}
+$$
 
 ---
 
 ### Step 1: Find Wavelength
 
-λ = 2 × 0.64  
+$$
+\lambda = 2 \times 0.64
+$$
 
-λ = 1.28 m  
+$$
+\lambda = 1.28 \text{ m}
+$$
 
 ---
 
 ### Step 2: Use Wave Equation
 
-v = fλ  
+$$
+v = f\lambda
+$$
 
-v = 330 × 1.28  
+$$
+v = 330 \times 1.28
+$$
 
-v = 422.4 m/s  
+$$
+v = 422.4 \text{ m/s}
+$$
 
 ---
 
-### Final Answer
+### ✅ Final Answer
 
 Wave speed: **422.4 m/s**
-
