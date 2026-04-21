@@ -2,8 +2,6 @@
 
 ## 1. Wave Properties
 
-### 📘 Problem
-
 A sound wave in air has a frequency of **440 Hz**.  
 
 - Speed of sound in air: **343 m/s**  
@@ -27,7 +25,7 @@ Rearrange to solve for wavelength:
 
 ---
 
-### 1️⃣ Wavelength in Air
+### Wavelength in Air
 
 λ_air = 343 / 440  
 
@@ -35,7 +33,7 @@ Rearrange to solve for wavelength:
 
 ---
 
-### 2️⃣ Wavelength in Water
+###  Wavelength in Water
 
 λ_water = 1482 / 440  
 
@@ -43,13 +41,8 @@ Rearrange to solve for wavelength:
 
 ---
 
-### ✅ Final Answers
+### Final Answers
 
 - Air: **0.78 m**  
 - Water: **3.37 m**
 
----
-
-### 💡 Key Insight
-
-The **frequency remains constant** when a wave moves between different media, but the **wave speed changes**, which causes the **wavelength to change**.
