@@ -8,7 +8,7 @@ Find the **speed of the wave** on the string.
 
 ---
 
-### 🧠 Solution
+### Solution
 
 For the fundamental mode of a string:
 
