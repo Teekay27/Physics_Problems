@@ -79,7 +79,9 @@ These three sections are in series:
 
 $$
 R_{\text{eq}}
+$$
 =
+$$
 R_A + R_M + R_B
 $$
 
@@ -88,10 +90,17 @@ Substitute:
 $$
 R_{\text{eq}}
 =
+$$
+
+$$
 \frac{R}{3}
+$$
 +
+$$
 \frac{R}{3}
+$$
 +
+$$
 \frac{R}{3}
 $$
 
